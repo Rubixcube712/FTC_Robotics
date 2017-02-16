@@ -11,3 +11,5 @@ Below is the syntax for naming new files:
   S: is for files pretaining to sensors 
   
   G: is for files with general use
+  
+  1: is for the README because I want it to be on top. No Jakob, you can't change it. 
